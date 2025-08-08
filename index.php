@@ -56,11 +56,12 @@
             }
             else
             {
-                 echo "<tr><td colspan='5'>No data found</td></tr>";
+                 echo "<tr><td colspan='5'>Data Not Found</td></tr>";
             }
             ?>
         </table>
 </div>
 </body>
 </html>
+
 
